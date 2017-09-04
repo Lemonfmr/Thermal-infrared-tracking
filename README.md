@@ -1,5 +1,7 @@
 # Thermal-infrared-tracking
- Deep Convolutional Neural Networks for Thermal Infrared Object Tracking
+Deep Convolutional Neural Networks for Thermal Infrared Object Tracking
+ 
+Paper link:https://sites.google.com/view/qiaoliu
  
 
 1. Download the VGG-NET-19 mat file using the link
